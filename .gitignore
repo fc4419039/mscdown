@@ -1,0 +1,18 @@
+venv/
+.venv/
+env/
+
+# Archivos de configuración de sistema y carpetas temporales
+__pycache__/
+*.pyc
+.DS_Store
+.env
+settings.conf.local
+
+# Carpetas de datos de sistema
+~
+assets/programa.png
+assets/direct_down.png
+
+# Por si acaso alguien edita localmente
+*.bak
