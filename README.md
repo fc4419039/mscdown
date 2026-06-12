@@ -97,7 +97,7 @@ Aquí puedes ver la herramienta en acción:
 ![Descarga directa](assets/direct_down.png)
 
 **Menú interactivo de selección:**
-![Menú interactivo](programa.png)
+![Menú interactivo](assets/programa.png)
 
 
 ## 💡 ¿Por qué MSCDown?
