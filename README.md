@@ -94,10 +94,10 @@ musica Queen Bohemian Rhapsody
 Aquí puedes ver la herramienta en acción:
 
 **Modo de descarga directa:**
-![Descarga directa](assets/direct_down.png)
+![Descarga directa](assets/test1.png)
 
 **Menú interactivo de selección:**
-![Menú interactivo](assets/programa.png)
+![Menú interactivo](assets/test2.png)
 
 
 ## 💡 ¿Por qué MSCDown?
