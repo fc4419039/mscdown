@@ -67,3 +67,6 @@ echo -e "${YELLOW}${BOLD}$MSG_HECHO${NC}"
 echo -e "${CYAN}$MSG_INSTRUCCION${NC} ${BOLD}${LILA}$ALIAS_NAME${NC} ${CYAN}$MSG_FINAL${NC}"
 echo -e "${LILA}$MSG_NOTA${NC}"
 echo -e "${MAGENTA}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}\n"
+
+
+chmod +x ejecutar.sh
