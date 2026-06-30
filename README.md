@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img alt="Clones" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffc4419039%2Fmscdown%2Fmain%2Fstats%2Fclones.json&query=%24.count&label=Clones%20(14d)&color=blue&suffix=%20total">
-  <img alt="Unique cloners" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffc4419039%2Fmscdown%2Fmain%2Fstats%2Fclones.json&query=%24.uniques&label=Clonadores&color=blue&suffix=%20%C3%BAnicos">
-  <img alt="License" src="https://img.shields.io/badge/License-GPL3-67AFC1">
-</p>
-
 # 🎵 Music Searcher & Downloader (MSCDown)
 
 Una herramienta de terminal **minimalista, estética y altamente eficiente** para buscar y descargar música de YouTube directamente a tu biblioteca local.
